@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleWater</string>
+    <string name="map_key">AIzaSyAt1_d1uxbSdsLdhbbiHlQxx5Nzh7pDtpc</string>
+    <string name="tab_name_st_petersburg">Питер</string>
+    <string name="tab_name_moscow">Москва</string>
+    <string name="not_internet">Отсутствует подключение к интернету</string>
+</resources>
